@@ -1,0 +1,19 @@
+Anbar Application 1.0
+
+Product
+    - Name
+    - Price
+    - Production Date
+    - Expiration Date
+    - Category
+        - Name
+    - Company
+        - Name
+        - Phone
+        - Address
+    - Quantity
+
+Employee
+    - Firstname
+    - Lastname
+    - Position
